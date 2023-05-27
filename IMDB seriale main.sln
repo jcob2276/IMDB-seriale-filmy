@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Web Scraping Seriale", "Web Scraping Seriale.pyproj", "{0A95468F-3A33-4A64-9A6F-3D375CEC0650}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IMDB seriale Directors", "..\IMDB seriale Directors\IMDB seriale Directors.pyproj", "{346012E8-3007-495E-97F6-CF9D4922DCE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A95468F-3A33-4A64-9A6F-3D375CEC0650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A95468F-3A33-4A64-9A6F-3D375CEC0650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346012E8-3007-495E-97F6-CF9D4922DCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346012E8-3007-495E-97F6-CF9D4922DCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4412DFBB-E682-4869-A1D4-A37A025C187D}
+	EndGlobalSection
+EndGlobal
